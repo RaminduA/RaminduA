@@ -20,7 +20,7 @@
 	
 	def Ambitions():
 		BecomeEngineer()
-		DoNewMyProjects()
+		DoNewProjects()
 
  ```
 
