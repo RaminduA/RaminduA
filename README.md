@@ -11,16 +11,16 @@
   class WhoAmI:
     user = 'Ramindu Abeygunawardane'
 	current_edu = ("IJSE", "University of Moratuwa")
-    currently_learning = {1:"Python", 2:"CSS", 3:"HTML"}
+    currently_learning = {1:"C++", 2:"React Native", 3:"Dart"}
     fun_fact = "I love Chillies"
-	hobbies = ['Music', 'Chilling', 'Gaming', 'Sci-Fi Movies']
+	hobbies = ['Music', 'Chilling', 'Coding', 'Sci-Fi Movies']
 	
 	def getCity():
 		return Galle_SriLanka()
 	
 	def Ambitions():
 		BecomeEngineer()
-		FinishMyProjects()
+		DoNewMyProjects()
 
  ```
 
@@ -46,18 +46,22 @@
 
 <p>
    <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-B2A573?logo=hibernate&logoColor=B2A573&color=black&labelColor=black"></a>
+   <a href="#"><img alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"></a>
+   <a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
 </p>
 
 ## Operating Systems
 
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/Mac_Os-000000?logo=apple&logoColor=white"></a>
+	<a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac_Os-000000?logo=apple&logoColor=white"></a>
+	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 ## Databases and Cloud hosting
 
 <p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
 </p> 
@@ -70,6 +74,8 @@
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
 	<a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-white.svg?logo=Jupyter&logoColor="></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-1D7CE5.svg?logo=intellij-idea&logoColor=black"></a>
+	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
+	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
 ## Connect with Me
@@ -89,4 +95,4 @@
 &nbsp;
 
 -----
-Last Edited on: 04/06/2022
+Last Edited on: 01/09/2023
