@@ -1,4 +1,4 @@
-### Hey, I'm [Ramindu Abeygunawardane!](https://ramindua.github.io/MyProfile/)
+### Hey, I'm [Ramindu Abeygunawardane](https://ramindua.github.io/MyProfile/)!
 
 ![Github Banner](assets/banner.png)
 
@@ -8,19 +8,71 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'Ramindu Abeygunawardane'
-	current_edu = ("IJSE", "University of Moratuwa")
-    currently_learning = {1:"C++", 2:"React Native", 3:"Dart"}
-    fun_fact = "I love Chillies"
-	hobbies = ['Music', 'Chilling', 'Coding', 'Sci-Fi Movies']
-	
-	def getCity():
-		return Galle_SriLanka()
-	
-	def Ambitions():
-		BecomeEngineer()
-		DoNewProjects()
+class WhoAmI:
+    username = 'Ramindu Abeygunawardane'
+    location = 'Galle, Sri Lanka'
+    current_education = {
+        'Institutes': ["IJSE", "University of Moratuwa"],
+        'Majors': ["Software Engineering", "Computer Science & Engineering (Data Science)"]
+    }
+    currently_learning = {
+        1: "C++",
+        2: "React Native",
+        3: "Dart/Flutter"
+    }
+    fun_fact = "I have a fiery passion for Chillies 🌶️!"
+    hobbies = [
+        'Music 🎶 - From classical melodies to modern beats, music fuels my creativity.',
+        'Chilling 😎 - Taking time to unwind and recharge with good company and great vibes.',
+        'Coding 💻 - Solving problems and creating innovative solutions is my daily grind.',
+        'Sci-Fi Movies 🎥 - Exploring futuristic worlds and concepts through the lens of science fiction.'
+    ]
+
+    def get_city(self):
+        return "Galle, Sri Lanka - Where the ocean meets innovation."
+
+    def ambitions(self):
+        return [
+            "Become an Engineer - Turning complex ideas into tangible, impactful solutions.",
+            "Do New Projects - Continuously pushing the boundaries of technology with creative projects."
+        ]
+
+    def __str__(self):
+        profile = f"""
+        👤 **Username**: {self.username}
+        🌍 **Location**: {self.location}
+
+        🎓 **Education**:
+        - **Institutes**: {", ".join(self.current_education['Institutes'])}
+        - **Majors**: {", ".join(self.current_education['Majors'])}
+
+        🚀 **Currently Learning**:
+        """
+        for key, value in self.currently_learning.items():
+            profile += f"  {key}. {value}\n"
+
+        profile += f"""
+        🌶️ **Fun Fact**: {self.fun_fact}
+
+        🎯 **Hobbies**:
+        """
+        for hobby in self.hobbies:
+            profile += f"  - {hobby}\n"
+
+        profile += f"""
+        🌆 **City**: {self.get_city()}
+
+        💡 **Ambitions**:
+        """
+        for ambition in self.ambitions():
+            profile += f"  - {ambition}\n"
+
+        return profile
+
+# Create an instance of WhoAmI and print the detailed profile card
+ramindu = WhoAmI()
+print(ramindu)
+
 
  ```
 
@@ -95,4 +147,4 @@
 &nbsp;
 
 -----
-Last Edited on: 01/09/2023
+Last Edited on: 23/08/2024
