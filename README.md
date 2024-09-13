@@ -1,4 +1,4 @@
-### Hey, I'm [Ramindu Abeygunawardane](https://ramindua.github.io/MyProfile/)!
+### Hey, I'm [Ramindu Abeygunawardane](https://ramindua.github.io/portfolio/)!
 
 ![Github Banner](assets/banner.png)
 
@@ -20,56 +20,55 @@ class WhoAmI:
         2: "React Native",
         3: "Dart/Flutter"
     }
-    fun_fact = "I have a fiery passion for Chillies 🌶️!"
+    fun_fact = "Passion for Chillies 🌶️!"
     hobbies = [
-        'Music 🎶 - From classical melodies to modern beats, music fuels my creativity.',
-        'Chilling 😎 - Taking time to unwind and recharge with good company and great vibes.',
-        'Coding 💻 - Solving problems and creating innovative solutions is my daily grind.',
-        'Sci-Fi Movies 🎥 - Exploring futuristic worlds and concepts through the lens of science fiction.'
+        'Music 🎶',
+        'Chilling 😎',
+        'Coding 💻',
+        'Sci-Fi Movies 🎥'
     ]
 
     def get_city(self):
-        return "Galle, Sri Lanka - Where the ocean meets innovation."
+        return "Galle, Sri Lanka"
 
     def ambitions(self):
         return [
-            "Become an Engineer - Turning complex ideas into tangible, impactful solutions.",
-            "Do New Projects - Continuously pushing the boundaries of technology with creative projects."
+            "Become an Engineer",
+            "Do New Projects"
         ]
 
     def __str__(self):
         profile = f"""
-        👤 **Username**: {self.username}
-        🌍 **Location**: {self.location}
+        Username: {self.username}
+        Location: {self.location}
 
-        🎓 **Education**:
-        - **Institutes**: {", ".join(self.current_education['Institutes'])}
-        - **Majors**: {", ".join(self.current_education['Majors'])}
+        Education:
+        - Institutes: {", ".join(self.current_education['Institutes'])}
+        - Majors: {", ".join(self.current_education['Majors'])}
 
-        🚀 **Currently Learning**:
+        Currently Learning:
         """
         for key, value in self.currently_learning.items():
             profile += f"  {key}. {value}\n"
 
         profile += f"""
-        🌶️ **Fun Fact**: {self.fun_fact}
+        Fun Fact: {self.fun_fact}
 
-        🎯 **Hobbies**:
+        Hobbies:
         """
         for hobby in self.hobbies:
             profile += f"  - {hobby}\n"
 
         profile += f"""
-        🌆 **City**: {self.get_city()}
+        City: {self.get_city()}
 
-        💡 **Ambitions**:
+        Ambitions:
         """
         for ambition in self.ambitions():
             profile += f"  - {ambition}\n"
 
         return profile
 
-# Create an instance of WhoAmI and print the detailed profile card
 ramindu = WhoAmI()
 print(ramindu)
 
@@ -133,18 +132,18 @@ print(ramindu)
 ## Connect with Me
 
 <p align="center">
-  <a href="https://lk.linkedin.com/in/ramindu-abeygunawardane-ab206a213"><img alt="Linkedin" title="Ramindu Abeygunawardane Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Ramindu-Abeygunawardane"><img alt="Linkedin" title="Ramindu Abeygunawardane Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RaminduA"><img alt="Github" title="Ramindu Abeygunawardane Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/RAS7262344/"><img alt="Facebook" title="Ramindu Abeygunawardane Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/RaminduA/"><img alt="Facebook" title="Ramindu Abeygunawardane Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/_r.a.m.i.n.d.u_/"><img alt="Instagram" title="Ramindu Abeygunawardane Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="mailto:raminduanjana@gmail.com"><img alt="Gmail" title="Ramindu Abeygunawardane Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/RaminduA"><img alt="Telegram" title="Ramindu Abeygunawardane Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="https://twitter.com/RaminduAbey"><img alt="Twitter" title="Ramindu Abeygunawardane Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/RaminduAbey"><img alt="X" title="Ramindu Abeygunawardane X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
 
 &nbsp;
 
 -----
-Last Edited on: 23/08/2024
+Last Edited on: 13/09/2024
