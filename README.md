@@ -9,7 +9,7 @@
 
  ```python
 class WhoAmI:
-    username = 'Ramindu Abeygunawardane'
+    username = 'RaminduA'
     location = 'Galle, Sri Lanka'
     current_education = {
         'Institutes': ["IJSE", "University of Moratuwa"],
