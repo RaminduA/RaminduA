@@ -81,53 +81,46 @@ print(ramindu)
 <img src="https://github-readme-stats.vercel.app/api?username=RaminduA&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaminduA&theme=blueberry_duo"/>
 |---|---|
 
-## Programming Languages
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
 
-<p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-EC2025.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23336D9C.svg?logo=python&logoColor=FFD745"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,pug,css,arduino)](https://skillicons.dev)
 
-## Frameworks and Libraries
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="25" height="25" /> Machine Learning and Data Manipulation
+<div>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4" width="50">
+    <img src="https://raw.githubusercontent.com/HanaokaYuzu/Gemini-API/master/assets/banner.png" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" width="50">
+    <img src="https://www.iconsdb.com/icons/preview/soylent-red/wolfram-alpha-xxl.png" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50">
+    <img src="https://i.imgur.com/BdWJk0i.png" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/53104118?s=200&v=4" width="50">
+    <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="70">
+</div>
 
-<p>
-   <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-B2A573?logo=hibernate&logoColor=B2A573&color=black&labelColor=black"></a>
-   <a href="#"><img alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"></a>
-   <a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-</p>
-
-## Operating Systems
-
-<p>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac_Os-000000?logo=apple&logoColor=white"></a>
-	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-</p>
-
-## Databases and Cloud hosting
-
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
-
-## Software and Tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
-	<a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-white.svg?logo=Jupyter&logoColor="></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-1D7CE5.svg?logo=intellij-idea&logoColor=black"></a>
-	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
-	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development
+<div>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="50">
+    
+</div>
 
 ## Connect with Me
 
@@ -146,4 +139,4 @@ print(ramindu)
 &nbsp;
 
 -----
-Last Edited on: 13/09/2024
+Last Edited on: 23/09/2024
