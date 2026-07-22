@@ -1,142 +1,263 @@
-### Hey, I'm [Ramindu Abeygunawardane](https://ramindua.github.io/portfolio/)!
-
-![Github Banner](assets/banner.png)
-
-<br />
-<br />
-
-## Who am I?
-
- ```python
-class WhoAmI:
-    username = 'RaminduA'
-    location = 'Galle, Sri Lanka'
-    current_education = {
-        'Institutes': ["IJSE", "University of Moratuwa"],
-        'Majors': ["Software Engineering", "Computer Science & Engineering (Data Science)"]
-    }
-    currently_learning = {
-        1: "C++",
-        2: "React Native",
-        3: "Dart/Flutter"
-    }
-    fun_fact = "Passion for Chillies 🌶️!"
-    hobbies = [
-        'Music 🎶',
-        'Chilling 😎',
-        'Coding 💻',
-        'Sci-Fi Movies 🎥'
-    ]
-
-    def get_city(self):
-        return "Galle, Sri Lanka"
-
-    def ambitions(self):
-        return [
-            "Become an Engineer",
-            "Do New Projects"
-        ]
-
-    def __str__(self):
-        profile = f"""
-        Username: {self.username}
-        Location: {self.location}
-
-        Education:
-        - Institutes: {", ".join(self.current_education['Institutes'])}
-        - Majors: {", ".join(self.current_education['Majors'])}
-
-        Currently Learning:
-        """
-        for key, value in self.currently_learning.items():
-            profile += f"  {key}. {value}\n"
-
-        profile += f"""
-        Fun Fact: {self.fun_fact}
-
-        Hobbies:
-        """
-        for hobby in self.hobbies:
-            profile += f"  - {hobby}\n"
-
-        profile += f"""
-        City: {self.get_city()}
-
-        Ambitions:
-        """
-        for ambition in self.ambitions():
-            profile += f"  - {ambition}\n"
-
-        return profile
-
-ramindu = WhoAmI()
-print(ramindu)
-
-
- ```
-
-
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RaminduA&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaminduA&theme=blueberry_duo"/>
-|---|---|
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,pug,css,arduino)](https://skillicons.dev)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="25" height="25" /> Machine Learning and Data Manipulation
-<div>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4" width="50">
-    <img src="https://raw.githubusercontent.com/HanaokaYuzu/Gemini-API/master/assets/banner.png" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" width="50">
-    <img src="https://www.iconsdb.com/icons/preview/soylent-red/wolfram-alpha-xxl.png" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50">
-    <img src="https://i.imgur.com/BdWJk0i.png" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/53104118?s=200&v=4" width="50">
-    <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="70">
+<div align="center">
+  <img
+    src="assets/banner.png"
+    alt="Ramindu Abeygunawardane GitHub Banner"
+    width="100%"
+  />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development
-<div>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="50">
-    
+<br />
+
+<div align="center">
+
+# Hi, I'm Ramindu Abeygunawardane
+
+### Software Engineer · Backend & Distributed Systems · Data & AI Engineering
+
+<p>
+  Computer Science & Engineering graduate focused on building reliable,
+  scalable and data-intensive software systems.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/Ramindu-Abeygunawardane" title="LinkedIn">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+      alt="LinkedIn"
+      width="46"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RaminduA" title="GitHub">
+    <img
+      src="https://skillicons.dev/icons?i=github&theme=dark"
+      alt="GitHub"
+      width="46"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:raminduanjana@gmail.com" title="Email">
+    <img
+      src="https://skillicons.dev/icons?i=gmail&theme=dark"
+      alt="Gmail"
+      width="46"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/RaminduAbey" title="X">
+    <img
+      src="https://skillicons.dev/icons?i=twitter&theme=dark"
+      alt="X"
+      width="46"
+    />
+  </a>
+</p>
+
 </div>
 
-## Connect with Me
+## About Me
+
+```go
+package main
+
+import "fmt"
+
+type Experience struct {
+	Role    string
+	Company string
+	Current bool
+}
+
+type Engineer struct {
+	Name           string
+	Major          string
+	Education      string
+	Specialization string
+	Experience     []Experience
+	Location       string
+}
+
+func (e Engineer) Introduce() {
+	fmt.Printf("Hi, I'm %s.\n", e.Name)
+	fmt.Printf("I'm based in %s.\n", e.Location)
+	fmt.Printf(
+		"I studied %s at the %s, specializing in %s.\n",
+		e.Major,
+		e.Education,
+		e.Specialization,
+	)
+
+	fmt.Println("Experience:")
+	for _, experience := range e.Experience {
+		status := "Previously"
+
+		if experience.Current {
+			status = "Currently"
+		}
+
+		fmt.Printf(
+			"  - %s: %s at %s\n",
+			status,
+			experience.Role,
+			experience.Company,
+		)
+	}
+}
+
+func main() {
+	ramindu := Engineer{
+		Name:           "Ramindu Abeygunawardane",
+		Major:          "Computer Science & Engineering",
+		Education:      "University of Moratuwa",
+		Specialization: "Data Science & Engineering",
+		Experience: []Experience{
+			{
+				Role:    "Associate AI Engineer",
+				Company: "DeepAI Labs",
+				Current: false,
+			},
+			{
+				Role:    "Software Engineering Intern",
+				Company: "ZeroBeta",
+				Current: false,
+			},
+		},
+		Location: "Galle, Sri Lanka",
+	}
+
+	ramindu.Introduce()
+}
+```
+
+## Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/Data%20Engineering-111827?style=for-the-badge" alt="Data Engineering" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-111827?style=for-the-badge" alt="Cloud Infrastructure" />
+<img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge" alt="MLOps" />
+
+</div>
+
+---
+
+## Technology Stack
+
+### Languages and Scripting
+
+[![Languages and Scripting](https://skillicons.dev/icons?i=java,py,go,js,ts,bash,cs,cpp,dart,kotlin,latex,md,php\&theme=dark)](https://skillicons.dev)
+
+### Backend Development
+
+[![Backend Development](https://skillicons.dev/icons?i=spring,django,fastapi,flask,express,nodejs,bun,graphql,hibernate,maven,npm,dotnet,laravel\&theme=dark)](https://skillicons.dev)
+
+### Frontend Development
+
+[![Frontend Development](https://skillicons.dev/icons?i=nextjs,react,html,css,bootstrap,jquery,materialui,tailwind,vite,threejs\&theme=dark)](https://skillicons.dev)
+
+### Application Development
+
+[![Application Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart,electron,qt\&theme=dark)](https://skillicons.dev)
+
+### UI Design and Prototyping
+
+[![Design and Prototyping](https://skillicons.dev/icons?i=figma,codepen\&theme=dark)](https://skillicons.dev)
+
+### Database Systems
+
+[![Database Systems](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,dynamodb,firebase,supabase\&theme=dark)](https://skillicons.dev)
+
+### Machine Learning and Data Streaming
+
+[![Machine Learning and Data Streaming](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,kafka,pkl\&theme=dark)](https://skillicons.dev)
+
+### Cloud Platforms
+
+[![Cloud Platforms](https://skillicons.dev/icons?i=aws,gcp\&theme=dark)](https://skillicons.dev)
+
+### Infrastructure
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,terraform,nginx,cloudflare\&theme=dark)](https://skillicons.dev)
+
+### CI/CD and Deployment
+
+[![CI/CD and Deployment](https://skillicons.dev/icons?i=githubactions,vercel,heroku,netlify\&theme=dark)](https://skillicons.dev)
+
+### Source Control and Collaboration
+
+[![Source Control and Collaboration](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,notion\&theme=dark)](https://skillicons.dev)
+
+### API Development
+
+[![API Development](https://skillicons.dev/icons?i=postman\&theme=dark)](https://skillicons.dev)
+
+### IDEs and Code Editors
+
+[![IDEs and Code Editors](https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,clion,phpstorm,eclipse,atom\&theme=dark)](https://skillicons.dev)
+
+### Operating Systems
+
+[![Operating Systems](https://skillicons.dev/icons?i=linux,windows\&theme=dark)](https://skillicons.dev)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=RaminduA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    alt="Ramindu's GitHub Statistics"
+  />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminduA&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    alt="Ramindu's Most Used Languages"
+  />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ramindu-Abeygunawardane"><img alt="Linkedin" title="Ramindu Abeygunawardane Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/RaminduA"><img alt="Github" title="Ramindu Abeygunawardane Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/RaminduA/"><img alt="Facebook" title="Ramindu Abeygunawardane Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/_r.a.m.i.n.d.u_/"><img alt="Instagram" title="Ramindu Abeygunawardane Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RaminduA&theme=github-dark-blue&hide_border=true"
+    alt="Ramindu's GitHub Contribution Streak"
+  />
 </p>
+
+
+## Connect With Me
+
 <p align="center">
-  <a href="mailto:raminduanjana@gmail.com"><img alt="Gmail" title="Ramindu Abeygunawardane Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/RaminduA"><img alt="Telegram" title="Ramindu Abeygunawardane Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="https://x.com/RaminduAbey"><img alt="X" title="Ramindu Abeygunawardane X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Ramindu-Abeygunawardane" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="52" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RaminduA" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="52" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:raminduanjana@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="52" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/RaminduAbey" title="X">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X" width="52" />
+  </a>
 </p>
 
-&nbsp;
 
------
-Last Edited on: 23/09/2024
+
+<p align="center">
+  <i>
+    Open to opportunities in backend development, data engineering and applied AI.
+  </i>
+</p>
+
+<p align="center">
+  <sub>Last updated: 22 July 2026</sub>
+</p>
